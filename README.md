@@ -1,5 +1,5 @@
 # Causal-Graph
-# CausalGraphicalModels
+# Causal Graphical Models
 
 ## Introduction
 #In statistics, econometrics, epidemiology, genetics and related disciplines, causal graphs (also known as path diagrams, causal Bayesian networks or DAGs) are probabilistic graphical models used to encode assumptions about the data-generating process. Causal graphs can be used for communication and for inference.
